@@ -3,7 +3,7 @@ package ej1_T6;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Enteros10 {//Comentario de la práctica de git
+public class Enteros10 {//Comentario de la práctica de git.*Edición* Comentario añadido.
 	public static void main (String [] args) {
 		Scanner sc = new Scanner(System.in);
 		Random r = new Random();
